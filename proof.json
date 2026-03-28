@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "issued_by": "AiVenture S.R.L.",
+  "founder": "Dan Ionescu",
+  "date": "2026-03-17",
+  "innovations": [
+    {"id": "WEB-AI_B2B_NETWORK", "sha256": "4d708888ebe4dfb79f36052f6c34735d4516f5501f5402126c300e76892ad5a6"},
+    {"id": "B2B_INDIRECT_MARKETING", "sha256": "217881f60755e3701496b1cb8690d0fd807362f64f478618385ae23318387499"},
+    {"id": "AI-TRUST_PROTOCOL", "sha256": "2395f0b7bd8c3d319a555c0c8638544e343f26d38d1bde28de84d15516990b5e"},
+    {"id": "1-CLICK_EDGE_INJECTOR", "sha256": "697fe1310d5b453ac71c637a2d5af655221f4e0bbc1f3117c023fa9a0444f826"},
+    {"id": "B2B_ECONOMIC_TWINS", "sha256": "0716ca58759f65f4760259efe71e99eecf5d22d7471ce4ef7107b49a86c0a077"}
+  ]
+}
