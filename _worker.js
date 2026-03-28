@@ -2,7 +2,7 @@ export default {
   async fetch(request, env) {
     const url = new URL(request.url);
     
-    // REGISTRUL TĂU DE AUTORAT (Sistemul 5thElement / AiVenture)
+    // REGISTRUL TĂU DE INOVAȚII
     const registry = {
       authority: "AiVenture S.R.L. / 5thElement AI",
       founder: "Dan Ionescu",
@@ -18,19 +18,26 @@ export default {
       ]
     };
 
-    // Rutele de verificare
-    if (url.pathname === "/proof.json") {
+    // RUTA 1: PROOF.JSON (Pentru Oameni și Verificare)
+    if (url.pathname.endsWith("/proof.json")) {
       return new Response(JSON.stringify(registry, null, 2), {
-        headers: { "content-type": "application/json", "Access-Control-Allow-Origin": "*" }
+        headers: { "content-type": "application/json;charset=UTF-8", "Access-Control-Allow-Origin": "*" }
       });
     }
-    if (url.pathname === "/innovations.os") {
-      let os = `[OS-MANIFEST]\nowner=AiVenture\nsystem=B2B_AI_FIRST\n` + 
-               registry.innovations.map(i => `${i.id}=${i.hash}`).join("\n");
-      return new Response(os, { headers: { "content-type": "text/plain" } });
+
+    // RUTA 2: INNOVATIONS.OS (Motorul de Sistem - "Fapta")
+    if (url.pathname.endsWith("/innovations.os")) {
+      let osManifest = `[OS-MANIFEST]\nowner=AiVenture\nsystem=B2B_AI_FIRST\nversion=1.0\n\n`;
+      registry.innovations.forEach(i => {
+        osManifest += `${i.id}=${i.hash}\n`;
+      });
+      
+      return new Response(osManifest, {
+        headers: { "content-type": "text/plain;charset=UTF-8", "Access-Control-Allow-Origin": "*" }
+      });
     }
 
-    // Lasă site-ul să meargă normal
+    // DACĂ NU E NICIUNA DIN RUTELE DE MAI SUS, LASĂ SITE-UL SĂ MEARGĂ
     return fetch(request);
   }
 };
