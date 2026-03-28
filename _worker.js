@@ -2,7 +2,6 @@ export default {
   async fetch(request, env) {
     const url = new URL(request.url);
     
-    // REGISTRUL TĂU DE INOVAȚII
     const registry = {
       authority: "AiVenture S.R.L. / 5thElement AI",
       founder: "Dan Ionescu",
@@ -18,26 +17,25 @@ export default {
       ]
     };
 
-    // RUTA 1: PROOF.JSON (Pentru Oameni și Verificare)
+    // RUTA: PROOF.JSON
     if (url.pathname.endsWith("/proof.json")) {
       return new Response(JSON.stringify(registry, null, 2), {
         headers: { "content-type": "application/json;charset=UTF-8", "Access-Control-Allow-Origin": "*" }
       });
     }
 
-    // RUTA 2: INNOVATIONS.OS (Motorul de Sistem - "Fapta")
+    // RUTA: INNOVATIONS.OS
     if (url.pathname.endsWith("/innovations.os")) {
       let osManifest = `[OS-MANIFEST]\nowner=AiVenture\nsystem=B2B_AI_FIRST\nversion=1.0\n\n`;
       registry.innovations.forEach(i => {
         osManifest += `${i.id}=${i.hash}\n`;
       });
-      
       return new Response(osManifest, {
         headers: { "content-type": "text/plain;charset=UTF-8", "Access-Control-Allow-Origin": "*" }
       });
     }
 
-    // DACĂ NU E NICIUNA DIN RUTELE DE MAI SUS, LASĂ SITE-UL SĂ MEARGĂ
-    return fetch(request);
+    // IMPORTANT: Această linie s-a schimbat pentru a evita eroarea 1019
+    return env.ASSETS ? await env.ASSETS.fetch(request) : await fetch(request);
   }
 };
