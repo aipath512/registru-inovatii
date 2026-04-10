@@ -1,0 +1,157 @@
+================================================================
+BITCOIN BLOCKCHAIN CONFIRMATION
+B2B AI-FIRST Innovation Registry v2.0
+================================================================
+Document:      Bitcoin Block Attestation Record
+Entity:        AiVenture S.R.L.
+Author:        Dan Ionescu
+CUI:           51415878
+System:        B2B_AI_FIRST
+Date:          2026-04-10
+Method:        OpenTimestamps + Bitcoin Mainnet
+================================================================
+
+All 7 innovations have been independently confirmed by the
+Bitcoin blockchain on 10 April 2026 (EET).
+
+Each SHA-256 hash is permanently and immutably recorded.
+Verification: opentimestamps.org → drop .ots file → Verify
+
+================================================================
+INNOVATION 1 — WEB-AI B2B NETWORK (L1)
+================================================================
+File:          L1-web-ai-b2b-network.txt
+OTS File:      L1-web-ai-b2b-network.txt.ots (619 bytes)
+SHA-256:       0e31e32db14289d6f5685b572d516b4ba96391757cfef0ce01b2b7a04fabe7cb
+Bitcoin Block: 944442
+Confirmed:     2026-04-10 EET
+Status:        ✅ BITCOIN CONFIRMED
+Original v1.0: 4d708888ebe4dfb79f36052f6c34735d4516f5501f5402126c300e76892ad5a6
+Original Date: 2026-03-17
+
+================================================================
+INNOVATION 2 — B2B INDIRECT MARKETING / MKT-INDIRECT (L2)
+================================================================
+File:          L2-b2b-indirect-marketing.txt
+OTS File:      L2-b2b-indirect-marketing.txt.ots (514 bytes)
+SHA-256:       641a4a32a03df0918a9151c7892c0eb4a83d23e52be368981321fb809bca14e9
+Bitcoin Block: 944443
+Confirmed:     2026-04-10 EET
+Status:        ✅ BITCOIN CONFIRMED
+Original v1.0: 217881f60755e3701496b1cb8690d0fd807362f64f478618385ae23318387499
+Original Date: 2026-03-17
+
+================================================================
+INNOVATION 3 — AI-TRUST PROTOCOL (L3)
+================================================================
+File:          L3-ai-trust-protocol.txt
+OTS File:      L3-ai-trust-protocol.txt.ots (689 bytes)
+SHA-256:       67795a7f571403cc535ae12fc391b7a19f17989bb3b1f562c60036d895937f35
+Bitcoin Block: 944443
+Confirmed:     2026-04-10 EET
+Status:        ✅ BITCOIN CONFIRMED
+Original v1.0: 2395f0b7bd8c3d319a555c0c8638544e343f26d38d1bde28de84d15516990b5e
+Original Date: 2026-03-17
+
+================================================================
+INNOVATION 4 — 1-CLICK AI-READY EDGE INJECTOR (L4)
+================================================================
+File:          L4-1click-edge-injector.txt
+OTS File:      L4-1click-edge-injector.txt.ots (759 bytes)
+SHA-256:       c78ffbff149d4ac2baa06aa8a463303a95db50afb9a9ec147dcb0fc355dbeaa6
+Bitcoin Block: 944443
+Confirmed:     2026-04-10 EET
+Status:        ✅ BITCOIN CONFIRMED
+Original v1.0: 697fe1310d5b453ac71c637a2d5af655221f4e0bbc1f3117c023fa9a0444f826
+Original Date: 2026-03-17
+
+================================================================
+INNOVATION 5 — B2B ECONOMIC TWINS / MKT-AI (L5)
+================================================================
+File:          L5-b2b-economic-twins.txt
+OTS File:      L5-b2b-economic-twins.txt.ots (584 bytes)
+SHA-256:       cd4212d312982ce843fd89ac67463f11e151ff258f70421bfc56b89ab637e2ca
+Bitcoin Block: 944443
+Confirmed:     2026-04-10 EET
+Status:        ✅ BITCOIN CONFIRMED
+Original v1.0: 0716ca58759f65f4760259efe71e99eecf5d22d7471ce4ef7107b49a86c0a077
+Original Date: 2026-03-17
+
+================================================================
+INNOVATION 6 — AI DELIVERY INFRASTRUCTURE / ADI (L6)
+================================================================
+File:          L6-ai-delivery-infrastructure.txt
+OTS File:      L6-ai-delivery-infrastructure.txt.ots (549 bytes)
+SHA-256:       0881c6741aa2fbb73de6235a3835223824bef4d309e09c9a8c5e6dfab6b4acec
+Bitcoin Block: 944443
+Confirmed:     2026-04-10 EET
+Status:        ✅ BITCOIN CONFIRMED
+Original v1.0: 31aa7a564ad93f21752e6c8d1b31f105688156182cfb1bcd6fb65ef1c756bc36
+Original Date: 2026-04-03
+
+================================================================
+MASTER — ADI CONGLOMERATE FINAL (ALL 6 INNOVATIONS)
+================================================================
+File:          ADI-CONGLOMERATE-FINAL.txt (14.3 kB)
+OTS File:      ADI-CONGLOMERATE-FINAL.txt.ots (549 bytes)
+SHA-256:       246d1c841ed1591cdd6b4fd725da9ec1ee3dd2f4428c98eca9a856fc4c37df20
+Bitcoin Block: 944454
+Confirmed:     2026-04-10 EET
+Status:        ✅ BITCOIN CONFIRMED
+Purpose:       Merkle root of entire B2B_AI_FIRST system.
+               Single hash covering all 6 canonical texts.
+
+================================================================
+SUMMARY TABLE
+================================================================
+
+#  INNOVATION              SHA-256 v2.0        BTC BLOCK  STATUS
+-  ----------------------  ------------------  ---------  ------
+1  WEB-AI B2B NETWORK      0e31e32d...         944442     ✅
+2  B2B INDIRECT MKT        641a4a32...         944443     ✅
+3  AI-TRUST PROTOCOL       67795a7f...         944443     ✅
+4  1-CLICK EDGE INJECTOR   c78ffbff...         944443     ✅
+5  B2B ECONOMIC TWINS      cd4212d3...         944443     ✅
+6  ADI                     0881c674...         944443     ✅
+M  ADI CONGLOMERATE FINAL  246d1c84...         944454     ✅
+
+ALL 7 CONFIRMED ON BITCOIN BLOCKCHAIN — 2026-04-10
+
+================================================================
+VERIFICATION INSTRUCTIONS
+================================================================
+
+To independently verify any hash:
+
+1. Go to: opentimestamps.org
+2. Drop the .ots file into the verification box
+3. The site will confirm the Bitcoin block number and date
+4. Cross-reference with blockchain explorer:
+   blockchain.info/block/944442
+   blockchain.info/block/944443
+   blockchain.info/block/944454
+
+GitHub Repository (public):
+github.com/aipath512/registru-inovatii
+
+================================================================
+LEGAL NOTICE
+================================================================
+
+This document constitutes a record of cryptographic prior art
+registration for the B2B_AI_FIRST innovation system.
+
+The SHA-256 hashes and Bitcoin block attestations recorded
+herein provide immutable proof of existence as of the dates
+confirmed above.
+
+Issuer:   AiVenture S.R.L.
+Author:   Dan Ionescu
+CUI:      51415878
+Address:  Bucuresti, Romania
+Contact:  contact@5thelement.ai
+Web:      5thelement.ai
+
+================================================================
+END OF BITCOIN CONFIRMATION RECORD — 2026-04-10
+================================================================
