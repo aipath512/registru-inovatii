@@ -1,6 +1,6 @@
 {
   "document": "proof.json",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "status": "active",
   "version_scheme": "sha256_v1 = original version hash, sha256_v2 = current reissued version hash. SYSTEM artifact has no v1 by design.",
   "system": {
@@ -53,7 +53,7 @@
       "status": "active",
       "date_original": "2026-03-17",
       "date_reissued": "2026-04-10",
-      "reissue_reason": "Migration to unified Bitcoin block anchor for L1-L6 and UTC timezone normalization",
+      "reissue_reason": "Re-anchored with UTC timestamp normalization. L1 uses block 944442; L2-L6 use block 944443. Block difference is intentional and reflects distinct timestamp evidence.",
       "sha256_v1": "4d708888ebe4dfb79f36052f6c34735d4516f5501f5402126c300e76892ad5a6",
       "sha256_v2": "0e31e32db14289d6f5685b572d516b4ba96391757cfef0ce01b2b7a04fabe7cb",
       "canonical_text_url": "https://raw.githubusercontent.com/aipath512/registru-inovatii/main/L1-web-ai-b2b-network.txt",
@@ -293,6 +293,11 @@
     "Add HTML <link rel=\"ai-proof\" href=\"/proof.json\"> in site head"
   ],
   "last_updated": "2026-04-10",
+  "changelog": {
+    "2.2.0": "Initial Bitcoin-anchored release with dual sha256_v1/v2 scheme",
+    "2.2.1": "UTC normalization, deprecation_policy, verification_source, SYSTEM notes, next_actions cleanup",
+    "2.2.2": "Corrected reissue_reason for L1 to accurately reflect block 944442 vs 944443 distinction"
+  },
   "integrity_notes": [
     "This file is the active SSOT layer, not the immutable anchor itself.",
     "Immutable anchor resides in Bitcoin via OpenTimestamps attestation.",
