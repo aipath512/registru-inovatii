@@ -1,0 +1,42 @@
+B2B ECONOMIC TWINS (MKT-AI) — Canonical Definition v2.0
+Issued by: AiVenture S.R.L. / 5thElement.ai
+Author: Dan Ionescu
+Date Original: 2026-03-17
+Date Reissued: 2026-04-10
+CUI: 51415878
+Layer: L5
+
+DEFINITION:
+MKT-AI is predictive B2B marketing powered by vectorial similarity matching on national fiscal databases using FAISS/HNSW algorithms on NACE codes, turnover, VAT registration, and employee count data.
+
+ECONOMIC TWINS ENGINE:
+Economic Twins is the core engine of MKT-AI: a vectorial similarity system that identifies firms most similar to a company's best existing clients across economic, structural and behavioral dimensions.
+
+Economic Twins does not find leads.
+It finds the firms that are already structurally identical to your best clients — before first contact.
+
+TECHNICAL STACK:
+- FAISS / HNSW vector store
+- Fiscal database vectors
+- Client state vector: Psi(t)
+- S0 fetch matrix with 4 thresholds:
+  Semantic Mass >= 0.60
+  Intent Velocity >= 0.40
+  Twin Similarity >= 0.75
+  Channel Receptivity >= 0.50
+  Composite S0 >= 0.72
+
+HIGH-FIDELITY DIGITAL SIMULATIONS:
+Economic Twins are digital simulations of a business's economic engine. They allow for predictive stress-testing of pricing, supply chain, and market shifts, enabling the company to move from a reactive state to predictive mastery.
+
+SACRED ARCHITECTURE POSITION:
+KAI369 Sacred Architecture: L5-L6 module.
+Predictive operations. Human-in-the-Loop governed.
+
+ONE-LINER:
+Stop reacting. Start predicting. Own your information.
+
+PRIOR ART REFERENCE:
+Original SHA-256: 0716ca58759f65f4760259efe71e99eecf5d22d7471ce4ef7107b49a86c0a077
+Original Date: 2026-03-17
+Bitcoin-anchored via OpenTimestamps

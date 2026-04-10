@@ -1,0 +1,34 @@
+WEB-AI B2B NETWORK — Canonical Definition v2.0
+Issued by: AiVenture S.R.L. / 5thElement.ai
+Author: Dan Ionescu
+Date Original: 2026-03-17
+Date Reissued: 2026-04-10
+CUI: 51415878
+Layer: L1
+
+DEFINITION:
+WEB-AI B2B NETWORK is the digital infrastructure in which a website becomes machine-readable, verifiable and reusable content for AI systems operating in a B2B context.
+
+WEB-AI is the website model built to function simultaneously in 4 systems:
+1. Human — experience and conversion
+2. Search engines — indexing and discoverability
+3. AI systems — understanding and reuse
+4. Verification systems — trust and validation
+
+PARADIGM SHIFT:
+Before: Website = traffic destination
+After:  Website = data source for AI
+
+A website no longer competes only for attention.
+It competes to be used as a source in AI-generated answers.
+
+ARCHITECTURE:
+WEB-AI B2B NETWORK enables B2B entities to communicate through AI-native protocols via high-dimensional vector alignment rather than simple keyword indexing. It is the foundational layer of the B2B_AI_FIRST system.
+
+ONE-LINER:
+Websites are no longer just destinations. They are sources.
+
+PRIOR ART REFERENCE:
+Original SHA-256: 4d708888ebe4dfb79f36052f6c34735d4516f5501f5402126c300e76892ad5a6
+Original Date: 2026-03-17
+Bitcoin-anchored via OpenTimestamps

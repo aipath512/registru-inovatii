@@ -1,0 +1,41 @@
+1-CLICK AI-READY EDGE INJECTOR — Canonical Definition v2.0
+Issued by: AiVenture S.R.L. / 5thElement.ai
+Author: Dan Ionescu
+Date Original: 2026-03-17
+Date Reissued: 2026-04-10
+CUI: 51415878
+Layer: L4
+
+DEFINITION:
+The 1-Click AI-READY Edge Injector is the deployment mechanism that installs a complete AI Discovery Infrastructure signal layer — ai.json, llms.txt, entities.json, governance.json, compliance.json, proof.json, intents.json, robots.txt AI directives, and JSON-LD structured data — in a single deployment action on Cloudflare Edge.
+
+It is not a plugin. It is not a tool. It is an infrastructure injector.
+
+WHAT IT DOES:
+The injector transforms a standard website into an AI-READY L2 system within 24 hours by deploying all machine-readable signal files required for discovery, verification and citation by AI answer engines including ChatGPT, Gemini, Claude and Perplexity.
+
+By operating at the Cloudflare Edge, it injects the necessary L1-L6 Sacred Architecture layers into existing traffic without requiring a backend overhaul.
+
+DEPLOYMENT SPECS:
+Target: Cloudflare Pages / Cloudflare Workers
+Output: Full AI signal layer at root level + edge-served endpoints
+Result: Business becomes machine-readable, governable and verifiable by AI systems
+
+TECHNICAL COMPONENTS DEPLOYED:
+- ai.json (machine-use policy)
+- llms.txt (interpretation doctrine)
+- entities.json (entity graph)
+- governance.json (governance layer)
+- compliance.json (EU AI Act compliance signals)
+- proof.json (cryptographic provenance ledger)
+- intents.json (semantic intent router)
+- robots.txt (AI crawler directives)
+- JSON-LD structured data (schema markup)
+
+ONE-LINER:
+From AI-invisible to AI-READY in one deployment action.
+
+PRIOR ART REFERENCE:
+Original SHA-256: 697fe1310d5b453ac71c637a2d5af655221f4e0bbc1f3117c023fa9a0444f826
+Original Date: 2026-03-17
+Bitcoin-anchored via OpenTimestamps

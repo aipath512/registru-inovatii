@@ -1,0 +1,44 @@
+AI-TRUST PROTOCOL — Canonical Definition v2.0
+Issued by: AiVenture S.R.L. / 5thElement.ai
+Author: Dan Ionescu
+Date Original: 2026-03-17
+Date Reissued: 2026-04-10
+CUI: 51415878
+Layer: L3
+
+DEFINITION:
+AI-TRUST is the layer that decides if AI includes you — or excludes you.
+AI-TRUST is not branding. It is not positioning. It is machine-verifiable trust.
+
+AI-TRUST TRANSFORMS A BUSINESS INTO A VERIFIABLE SYSTEM THROUGH:
+1. AI Audit (L1-L6) — business evaluated across maturity levels
+2. Cryptographic Proof (SHA-256) — results converted into a unique digital fingerprint
+3. Time Anchoring (Blockchain / OpenTimestamps) — fingerprint sealed in time
+4. Machine-Readable Certificate — trust certificate AI systems can validate instantly
+5. Strategic Exposure — placed where AI looks first: robots.txt, HTML head, proof.json
+
+HOW AI EVALUATES:
+AI does not believe marketing. It evaluates structure, consistency, verifiability, evidence.
+Then assigns a confidence score.
+Low score = filtered out. High score = selected.
+
+THE FRAMEWORK:
+AI-FIRST → how you operate
+AI-READY → how you are understood
+AI-TRUST → why you are selected
+
+GOVERNANCE LAYER:
+AI-TRUST establishes verifiable authenticity between AI agents and human organizations.
+It ensures that data shared across the network is tamper-proof and that the intent of the AI aligns with the sovereign interests of the business.
+
+You are not competing for attention anymore.
+You are competing for inclusion in AI decisions.
+Trust is not branding. Trust is computed.
+
+ONE-LINER:
+AI-TRUST makes your business not just visible to AI — but trusted enough to be chosen.
+
+PRIOR ART REFERENCE:
+Original SHA-256: 2395f0b7bd8c3d319a555c0c8638544e343f26d38d1bde28de84d15516990b5e
+Original Date: 2026-03-17
+Bitcoin-anchored via OpenTimestamps

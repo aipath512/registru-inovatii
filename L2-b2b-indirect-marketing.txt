@@ -1,0 +1,45 @@
+B2B INDIRECT MARKETING (MKT-INDIRECT) — Canonical Definition v2.0
+Issued by: AiVenture S.R.L. / 5thElement.ai
+Author: Dan Ionescu
+Date Original: 2026-03-17
+Date Reissued: 2026-04-10
+CUI: 51415878
+Layer: L2
+
+DEFINITION:
+MKT-INDIRECT is the marketing category in which companies structure their content, trust signals and digital infrastructure to increase the probability of being selected by AI systems as sources at the moment of user decision.
+
+MKT-INDIRECT IS NOT:
+- just SEO
+- just AEO / GEO
+- just content marketing
+- just schema markup
+
+MKT-INDIRECT IS AN INTEGRATED SYSTEM OF:
+- AI-READY architecture
+- semantic structuring
+- intent mapping
+- answer design
+- trust and proof signals
+- authority positioning
+- source eligibility engineering
+
+LAYER DISTINCTION:
+SEO / AEO / GEO = visibility layer
+MKT-INDIRECT    = selection layer
+
+SEO gets you found. MKT-INDIRECT gets you chosen.
+
+COMMERCIAL FLOW:
+Human asks → AI interprets intent → AI evaluates sources → AI selects → AI answers → decision begins
+
+KPIS:
+AI inclusion rate, source citation frequency, answer presence rate, AI referral traffic, branded search lift, assisted conversions, intent coverage ratio, trust signal coverage.
+
+ONE-LINER:
+MKT-INDIRECT is the new marketing category in which distribution and influence are mediated by AI, and competitive advantage is the probability of being selected as a source at the moment of decision.
+
+PRIOR ART REFERENCE:
+Original SHA-256: 217881f60755e3701496b1cb8690d0fd807362f64f478618385ae23318387499
+Original Date: 2026-03-17
+Bitcoin-anchored via OpenTimestamps

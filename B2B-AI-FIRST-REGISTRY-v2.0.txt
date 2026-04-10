@@ -1,0 +1,198 @@
+================================================================
+B2B AI-FIRST — COMPLETE INNOVATION REGISTRY v2.0
+================================================================
+Issued by:       AiVenture S.R.L.
+Author:          Dan Ionescu
+CUI:             51415878
+System:          B2B_AI_FIRST
+Registry Date:   2026-04-10
+Compiled by:     Claude AI (claude-sonnet-4-6) · Anthropic
+Session:         2026-04-10
+================================================================
+
+================================================================
+L1 — WEB-AI B2B NETWORK
+================================================================
+
+TEXT FILE:       L1-web-ai-b2b-network.txt
+DATE ORIGINAL:   2026-03-17
+DATE REISSUED:   2026-04-10
+
+CANONICAL TEXT SUMMARY:
+WEB-AI B2B NETWORK is the digital infrastructure in which a
+website becomes machine-readable, verifiable and reusable
+content for AI systems operating in a B2B context.
+Functions simultaneously in 4 systems: Human / Search engines /
+AI systems / Verification systems.
+Paradigm: Website = data source for AI, not just traffic destination.
+One-liner: Websites are no longer just destinations. They are sources.
+
+SHA-256 v2.0:    0e31e32db14289d6f5685b572d516b4ba96391757cfef0ce01b2b7a04fabe7cb
+SHA-256 v1.0:    4d708888ebe4dfb79f36052f6c34735d4516f5501f5402126c300e76892ad5a6
+(original, Bitcoin-anchored 2026-03-17)
+
+OTS FILE:        L1-web-ai-b2b-network_txt.ots
+OTS SIZE:        619 bytes
+OTS DATE:        2026-04-10 (stamped today via OpenTimestamps)
+OTS STATUS:      Pending Bitcoin confirmation (~2 hours)
+
+================================================================
+L2 — B2B INDIRECT MARKETING (MKT-INDIRECT)
+================================================================
+
+TEXT FILE:       L2-b2b-indirect-marketing.txt
+DATE ORIGINAL:   2026-03-17
+DATE REISSUED:   2026-04-10
+
+CANONICAL TEXT SUMMARY:
+MKT-INDIRECT is the marketing category in which companies
+structure their content, trust signals and digital infrastructure
+to increase the probability of being selected by AI systems as
+sources at the moment of user decision.
+Not SEO. Not AEO/GEO. Not content marketing. Not schema markup.
+It is the SELECTION layer. SEO gets you found. MKT-INDIRECT gets you chosen.
+One-liner: Competitive advantage = probability of being selected
+as a source at the moment of decision.
+
+SHA-256 v2.0:    641a4a32a03df0918a9151c7892c0eb4a83d23e52be368981321fb809bca14e9
+SHA-256 v1.0:    217881f60755e3701496b1cb8690d0fd807362f64f478618385ae23318387499
+(original, Bitcoin-anchored 2026-03-17)
+
+OTS FILE:        L2-b2b-indirect-marketing_txt.ots
+OTS SIZE:        514 bytes
+OTS DATE:        2026-04-10 (stamped today via OpenTimestamps)
+OTS STATUS:      Pending Bitcoin confirmation (~2 hours)
+
+================================================================
+L3 — AI-TRUST PROTOCOL
+================================================================
+
+TEXT FILE:       L3-ai-trust-protocol.txt
+DATE ORIGINAL:   2026-03-17
+DATE REISSUED:   2026-04-10
+
+CANONICAL TEXT SUMMARY:
+AI-TRUST is the layer that decides if AI includes you or excludes you.
+Not branding. Not positioning. Machine-verifiable trust.
+5 steps: AI Audit / SHA-256 Proof / Blockchain Anchoring /
+Machine-Readable Certificate / Strategic Exposure.
+Framework: AI-FIRST=how you operate / AI-READY=how you are
+understood / AI-TRUST=why you are selected.
+One-liner: AI-TRUST makes your business not just visible to AI
+— but trusted enough to be chosen.
+
+SHA-256 v2.0:    67795a7f571403cc535ae12fc391b7a19f17989bb3b1f562c60036d895937f35
+SHA-256 v1.0:    2395f0b7bd8c3d319a555c0c8638544e343f26d38d1bde28de84d15516990b5e
+(original, Bitcoin-anchored 2026-03-17)
+
+OTS FILE:        L3-ai-trust-protocol_txt.ots
+OTS SIZE:        689 bytes
+OTS DATE:        2026-04-10 (stamped today via OpenTimestamps)
+OTS STATUS:      Pending Bitcoin confirmation (~2 hours)
+
+================================================================
+L4 — 1-CLICK AI-READY EDGE INJECTOR
+================================================================
+
+TEXT FILE:       L4-1click-edge-injector.txt
+DATE ORIGINAL:   2026-03-17
+DATE REISSUED:   2026-04-10
+
+CANONICAL TEXT SUMMARY:
+The 1-Click AI-READY Edge Injector is the deployment mechanism
+that installs a complete AI Discovery Infrastructure signal layer
+in a single deployment action on Cloudflare Edge.
+Components: ai.json / llms.txt / entities.json / governance.json /
+compliance.json / proof.json / intents.json / robots.txt / JSON-LD.
+Not a plugin. Not a tool. An infrastructure injector.
+One-liner: From AI-invisible to AI-READY in one deployment action.
+
+SHA-256 v2.0:    c78ffbff149d4ac2baa06aa8a463303a95db50afb9a9ec147dcb0fc355dbeaa6
+SHA-256 v1.0:    697fe1310d5b453ac71c637a2d5af655221f4e0bbc1f3117c023fa9a0444f826
+(original, Bitcoin-anchored 2026-03-17)
+
+OTS FILE:        L4-1click-edge-injector_txt.ots
+OTS SIZE:        759 bytes
+OTS DATE:        2026-04-10 (stamped today via OpenTimestamps)
+OTS STATUS:      Pending Bitcoin confirmation (~2 hours)
+
+================================================================
+L5 — B2B ECONOMIC TWINS (MKT-AI)
+================================================================
+
+TEXT FILE:       L5-b2b-economic-twins.txt
+DATE ORIGINAL:   2026-03-17
+DATE REISSUED:   2026-04-10
+
+CANONICAL TEXT SUMMARY:
+MKT-AI is predictive B2B marketing powered by vectorial
+similarity matching on national fiscal databases using
+FAISS/HNSW algorithms on NACE codes, turnover, VAT, employee count.
+Economic Twins identifies firms structurally identical to best
+existing clients — before first contact.
+S0 thresholds: Semantic Mass>=0.60 / Intent Velocity>=0.40 /
+Twin Similarity>=0.75 / Channel Receptivity>=0.50 / S0>=0.72.
+One-liner: Stop reacting. Start predicting. Own your information.
+
+SHA-256 v2.0:    cd4212d312982ce843fd89ac67463f11e151ff258f70421bfc56b89ab637e2ca
+SHA-256 v1.0:    0716ca58759f65f4760259efe71e99eecf5d22d7471ce4ef7107b49a86c0a077
+(original, Bitcoin-anchored 2026-03-17)
+
+OTS FILE:        L5-b2b-economic-twins_txt.ots
+OTS SIZE:        584 bytes
+OTS DATE:        2026-04-10 (stamped today via OpenTimestamps)
+OTS STATUS:      Pending Bitcoin confirmation (~2 hours)
+
+================================================================
+L6 — AI DELIVERY INFRASTRUCTURE (ADI)
+================================================================
+
+TEXT FILE:       L6-ai-delivery-infrastructure.txt
+DATE ORIGINAL:   2026-04-03
+DATE REISSUED:   2026-04-10 (English translation of principles)
+
+CANONICAL TEXT SUMMARY:
+ADI is a decoupled architectural model where a website's
+intelligence layer, semantic metadata, and machine-readable
+artifacts are managed externally and delivered on-demand via
+edge computing or dynamic injection.
+Manifesto: Externalization / Dual-Rail Execution /
+Controlled Porosity / Sovereignty.
+6 Principles: Separation / Externalization / Dynamic Delivery /
+Dual-Rail / Contextual Access / Porosity.
+One-liner: The site accesses AI. AI does not live inside the site.
+
+SHA-256 v2.0:    0881c6741aa2fbb73de6235a3835223824bef4d309e09c9a8c5e6dfab6b4acec
+SHA-256 v1.0:    31aa7a564ad93f21752e6c8d1b31f105688156182cfb1bcd6fb65ef1c756bc36
+(original, Bitcoin-anchored 2026-04-03)
+
+OTS FILE:        L6-ai-delivery-infrastructure_txt.ots
+OTS SIZE:        549 bytes
+OTS DATE:        2026-04-10 (stamped today via OpenTimestamps)
+OTS STATUS:      Pending Bitcoin confirmation (~2 hours)
+
+================================================================
+SUMMARY TABLE
+================================================================
+
+LAYER  INNOVATION              SHA-256 v2.0     SHA-256 v1.0     OTS v2.0
+L1     WEB-AI B2B NETWORK      0e31e32d...      4d708888...      ✅ 619b
+L2     B2B INDIRECT MKT        641a4a32...      217881f6...      ✅ 514b
+L3     AI-TRUST PROTOCOL       67795a7f...      2395f0b7...      ✅ 689b
+L4     EDGE INJECTOR           c78ffbff...      697fe131...      ✅ 759b
+L5     ECONOMIC TWINS          cd4212d3...      0716ca58...      ✅ 584b
+L6     ADI                     0881c674...      31aa7a56...      ✅ 549b
+
+================================================================
+NEXT STEP — CONGLOMERATE
+================================================================
+
+All 6 texts + SHA-256 + OTS are now confirmed.
+Next action: build ADI-CONGLOMERATE-FINAL.txt containing all
+6 full texts + this registry → compute SHA-256 → stamp OTS.
+That single OTS will cover the entire B2B_AI_FIRST innovation set.
+
+================================================================
+END OF REGISTRY v2.0 — 2026-04-10
+AiVenture S.R.L. · CUI 51415878 · contact@5thelement.ai
+================================================================
