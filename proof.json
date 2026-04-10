@@ -1,13 +1,305 @@
 {
-  "version": "1.0",
-  "issued_by": "AiVenture S.R.L.",
-  "founder": "Dan Ionescu",
-  "date": "2026-03-17",
-  "innovations": [
-    {"id": "WEB-AI_B2B_NETWORK", "sha256": "4d708888ebe4dfb79f36052f6c34735d4516f5501f5402126c300e76892ad5a6"},
-    {"id": "B2B_INDIRECT_MARKETING", "sha256": "217881f60755e3701496b1cb8690d0fd807362f64f478618385ae23318387499"},
-    {"id": "AI-TRUST_PROTOCOL", "sha256": "2395f0b7bd8c3d319a555c0c8638544e343f26d38d1bde28de84d15516990b5e"},
-    {"id": "1-CLICK_EDGE_INJECTOR", "sha256": "697fe1310d5b453ac71c637a2d5af655221f4e0bbc1f3117c023fa9a0444f826"},
-    {"id": "B2B_ECONOMIC_TWINS", "sha256": "0716ca58759f65f4760259efe71e99eecf5d22d7471ce4ef7107b49a86c0a077"}
+  "document": "proof.json",
+  "version": "2.2.1",
+  "status": "active",
+  "version_scheme": "sha256_v1 = original version hash, sha256_v2 = current reissued version hash. SYSTEM artifact has no v1 by design.",
+  "system": {
+    "name": "B2B_AI_FIRST",
+    "registry_type": "ACTIVE_SSOT",
+    "scope": "L1-L6 innovations plus SYSTEM master artifact",
+    "owner": {
+      "legal_name": "AiVenture S.R.L.",
+      "brand": "5thElement.ai",
+      "author": "Dan Ionescu",
+      "cui": "51415878",
+      "website": "https://5thelement.ai",
+      "email": "contact@5thelement.ai"
+    }
+  },
+  "control_plane": {
+    "canonical_repo": {
+      "provider": "GitHub",
+      "owner": "aipath512",
+      "repo": "registru-inovatii",
+      "branch": "main",
+      "repo_url": "https://github.com/aipath512/registru-inovatii"
+    },
+    "purpose": "Human-readable and machine-addressable canonical publication layer for all innovation artifacts."
+  },
+  "trust_model": {
+    "immutable_anchor": "Bitcoin via OpenTimestamps",
+    "canonical_publication": "GitHub repository",
+    "active_ssot": "This proof.json file",
+    "human_attestation_record": "BITCOIN-CONFIRMATION.txt",
+    "discovery_layer": [
+      "robots.txt",
+      "ai.json",
+      "HTML head link rel=ai-proof"
+    ],
+    "notes": [
+      "GitHub is the publication and distribution layer, not the immutable anchor.",
+      "The .ots file is a cryptographic receipt, not the original content.",
+      "The Bitcoin blockchain stores an attestation path for the hash, not the full text artifact.",
+      "BITCOIN-CONFIRMATION.txt is the human-readable attestation register of the Bitcoin confirmations.",
+      "BITCOIN-CONFIRMATION.txt is published in the GitHub repository but is not itself Bitcoin-anchored. It is a human-readable audit log, not an immutable anchor."
+    ]
+  },
+  "artifacts": [
+    {
+      "id": "L1",
+      "layer": "L1",
+      "name": "WEB-AI B2B NETWORK",
+      "type": "canonical_definition",
+      "status": "active",
+      "date_original": "2026-03-17",
+      "date_reissued": "2026-04-10",
+      "reissue_reason": "Migration to unified Bitcoin block anchor for L1-L6 and UTC timezone normalization",
+      "sha256_v1": "4d708888ebe4dfb79f36052f6c34735d4516f5501f5402126c300e76892ad5a6",
+      "sha256_v2": "0e31e32db14289d6f5685b572d516b4ba96391757cfef0ce01b2b7a04fabe7cb",
+      "canonical_text_url": "https://raw.githubusercontent.com/aipath512/registru-inovatii/main/L1-web-ai-b2b-network.txt",
+      "ots_url": "https://raw.githubusercontent.com/aipath512/registru-inovatii/main/L1-web-ai-b2b-network.txt.ots",
+      "github_text_url": "https://github.com/aipath512/registru-inovatii/blob/main/L1-web-ai-b2b-network.txt",
+      "github_ots_url": "https://github.com/aipath512/registru-inovatii/blob/main/L1-web-ai-b2b-network.txt.ots",
+      "anchor": {
+        "method": "OpenTimestamps",
+        "network": "Bitcoin",
+        "verification_status": "confirmed",
+        "verification_source": "opentimestamps.org + manual cross-check by owner",
+        "bitcoin_block": 944442,
+        "attests_existence_as_of": "2026-04-10T00:00:00Z",
+        "timezone": "EET",
+        "timezone_utc": true,
+        "attestation_line": "Bitcoin block 944442 attests existence as of 2026-04-10 EET",
+        "evidence_type": "OpenTimestamps online verification"
+      }
+    },
+    {
+      "id": "L2",
+      "layer": "L2",
+      "name": "B2B INDIRECT MARKETING (MKT-INDIRECT)",
+      "type": "canonical_definition",
+      "status": "active",
+      "date_original": "2026-03-17",
+      "date_reissued": "2026-04-10",
+      "reissue_reason": "Migration to unified Bitcoin block anchor for L1-L6 and UTC timezone normalization",
+      "sha256_v1": "217881f60755e3701496b1cb8690d0fd807362f64f478618385ae23318387499",
+      "sha256_v2": "641a4a32a03df0918a9151c7892c0eb4a83d23e52be368981321fb809bca14e9",
+      "canonical_text_url": "https://raw.githubusercontent.com/aipath512/registru-inovatii/main/L2-b2b-indirect-marketing.txt",
+      "ots_url": "https://raw.githubusercontent.com/aipath512/registru-inovatii/main/L2-b2b-indirect-marketing.txt.ots",
+      "github_text_url": "https://github.com/aipath512/registru-inovatii/blob/main/L2-b2b-indirect-marketing.txt",
+      "github_ots_url": "https://github.com/aipath512/registru-inovatii/blob/main/L2-b2b-indirect-marketing.txt.ots",
+      "anchor": {
+        "method": "OpenTimestamps",
+        "network": "Bitcoin",
+        "verification_status": "confirmed",
+        "verification_source": "opentimestamps.org + manual cross-check by owner",
+        "bitcoin_block": 944443,
+        "attests_existence_as_of": "2026-04-10T00:00:00Z",
+        "timezone": "EET",
+        "timezone_utc": true,
+        "attestation_line": "Bitcoin block 944443 attests existence as of 2026-04-10 EET",
+        "evidence_type": "OpenTimestamps online verification"
+      }
+    },
+    {
+      "id": "L3",
+      "layer": "L3",
+      "name": "AI-TRUST PROTOCOL",
+      "type": "canonical_definition",
+      "status": "active",
+      "date_original": "2026-03-17",
+      "date_reissued": "2026-04-10",
+      "reissue_reason": "Migration to unified Bitcoin block anchor for L1-L6 and UTC timezone normalization",
+      "sha256_v1": "2395f0b7bd8c3d319a555c0c8638544e343f26d38d1bde28de84d15516990b5e",
+      "sha256_v2": "67795a7f571403cc535ae12fc391b7a19f17989bb3b1f562c60036d895937f35",
+      "canonical_text_url": "https://raw.githubusercontent.com/aipath512/registru-inovatii/main/L3-ai-trust-protocol.txt",
+      "ots_url": "https://raw.githubusercontent.com/aipath512/registru-inovatii/main/L3-ai-trust-protocol.txt.ots",
+      "github_text_url": "https://github.com/aipath512/registru-inovatii/blob/main/L3-ai-trust-protocol.txt",
+      "github_ots_url": "https://github.com/aipath512/registru-inovatii/blob/main/L3-ai-trust-protocol.txt.ots",
+      "anchor": {
+        "method": "OpenTimestamps",
+        "network": "Bitcoin",
+        "verification_status": "confirmed",
+        "verification_source": "opentimestamps.org + manual cross-check by owner",
+        "bitcoin_block": 944443,
+        "attests_existence_as_of": "2026-04-10T00:00:00Z",
+        "timezone": "EET",
+        "timezone_utc": true,
+        "attestation_line": "Bitcoin block 944443 attests existence as of 2026-04-10 EET",
+        "evidence_type": "OpenTimestamps online verification"
+      }
+    },
+    {
+      "id": "L4",
+      "layer": "L4",
+      "name": "1-CLICK AI-READY EDGE INJECTOR",
+      "type": "canonical_definition",
+      "status": "active",
+      "date_original": "2026-03-17",
+      "date_reissued": "2026-04-10",
+      "reissue_reason": "Migration to unified Bitcoin block anchor for L1-L6 and UTC timezone normalization",
+      "sha256_v1": "697fe1310d5b453ac71c637a2d5af655221f4e0bbc1f3117c023fa9a0444f826",
+      "sha256_v2": "c78ffbff149d4ac2baa06aa8a463303a95db50afb9a9ec147dcb0fc355dbeaa6",
+      "canonical_text_url": "https://raw.githubusercontent.com/aipath512/registru-inovatii/main/L4-1click-edge-injector.txt",
+      "ots_url": "https://raw.githubusercontent.com/aipath512/registru-inovatii/main/L4-1click-edge-injector.txt.ots",
+      "github_text_url": "https://github.com/aipath512/registru-inovatii/blob/main/L4-1click-edge-injector.txt",
+      "github_ots_url": "https://github.com/aipath512/registru-inovatii/blob/main/L4-1click-edge-injector.txt.ots",
+      "anchor": {
+        "method": "OpenTimestamps",
+        "network": "Bitcoin",
+        "verification_status": "confirmed",
+        "verification_source": "opentimestamps.org + manual cross-check by owner",
+        "bitcoin_block": 944443,
+        "attests_existence_as_of": "2026-04-10T00:00:00Z",
+        "timezone": "EET",
+        "timezone_utc": true,
+        "attestation_line": "Bitcoin block 944443 attests existence as of 2026-04-10 EET",
+        "evidence_type": "OpenTimestamps online verification"
+      }
+    },
+    {
+      "id": "L5",
+      "layer": "L5",
+      "name": "B2B ECONOMIC TWINS (MKT-AI)",
+      "type": "canonical_definition",
+      "status": "active",
+      "date_original": "2026-03-17",
+      "date_reissued": "2026-04-10",
+      "reissue_reason": "Migration to unified Bitcoin block anchor for L1-L6 and UTC timezone normalization",
+      "sha256_v1": "0716ca58759f65f4760259efe71e99eecf5d22d7471ce4ef7107b49a86c0a077",
+      "sha256_v2": "cd4212d312982ce843fd89ac67463f11e151ff258f70421bfc56b89ab637e2ca",
+      "canonical_text_url": "https://raw.githubusercontent.com/aipath512/registru-inovatii/main/L5-b2b-economic-twins.txt",
+      "ots_url": "https://raw.githubusercontent.com/aipath512/registru-inovatii/main/L5-b2b-economic-twins.txt.ots",
+      "github_text_url": "https://github.com/aipath512/registru-inovatii/blob/main/L5-b2b-economic-twins.txt",
+      "github_ots_url": "https://github.com/aipath512/registru-inovatii/blob/main/L5-b2b-economic-twins.txt.ots",
+      "anchor": {
+        "method": "OpenTimestamps",
+        "network": "Bitcoin",
+        "verification_status": "confirmed",
+        "verification_source": "opentimestamps.org + manual cross-check by owner",
+        "bitcoin_block": 944443,
+        "attests_existence_as_of": "2026-04-10T00:00:00Z",
+        "timezone": "EET",
+        "timezone_utc": true,
+        "attestation_line": "Bitcoin block 944443 attests existence as of 2026-04-10 EET",
+        "evidence_type": "OpenTimestamps online verification"
+      }
+    },
+    {
+      "id": "L6",
+      "layer": "L6",
+      "name": "AI DELIVERY INFRASTRUCTURE (ADI)",
+      "type": "canonical_definition",
+      "status": "active",
+      "date_original": "2026-04-03",
+      "date_reissued": "2026-04-10",
+      "reissue_reason": "Migration to unified Bitcoin block anchor for L1-L6 and UTC timezone normalization",
+      "sha256_v1": "31aa7a564ad93f21752e6c8d1b31f105688156182cfb1bcd6fb65ef1c756bc36",
+      "sha256_v2": "0881c6741aa2fbb73de6235a3835223824bef4d309e09c9a8c5e6dfab6b4acec",
+      "canonical_text_url": "https://raw.githubusercontent.com/aipath512/registru-inovatii/main/L6-ai-delivery-infrastructure.txt",
+      "ots_url": "https://raw.githubusercontent.com/aipath512/registru-inovatii/main/L6-ai-delivery-infrastructure.txt.ots",
+      "github_text_url": "https://github.com/aipath512/registru-inovatii/blob/main/L6-ai-delivery-infrastructure.txt",
+      "github_ots_url": "https://github.com/aipath512/registru-inovatii/blob/main/L6-ai-delivery-infrastructure.txt.ots",
+      "anchor": {
+        "method": "OpenTimestamps",
+        "network": "Bitcoin",
+        "verification_status": "confirmed",
+        "verification_source": "opentimestamps.org + manual cross-check by owner",
+        "bitcoin_block": 944443,
+        "attests_existence_as_of": "2026-04-10T00:00:00Z",
+        "timezone": "EET",
+        "timezone_utc": true,
+        "attestation_line": "Bitcoin block 944443 attests existence as of 2026-04-10 EET",
+        "evidence_type": "OpenTimestamps online verification"
+      }
+    },
+    {
+      "id": "SYSTEM",
+      "layer": "SYSTEM",
+      "name": "ADI CONGLOMERATE FINAL — B2B AI-FIRST COMPLETE INNOVATION SET",
+      "type": "system_artifact",
+      "status": "active",
+      "date_original": "2026-04-10",
+      "date_reissued": "2026-04-10",
+      "notes": "SYSTEM artifact has no sha256_v1 by design. It is a composite cryptographic declaration covering L1–L6 at their v2 state. sha256_v1 = null is intentional and machine-parseable.",
+      "sha256_v1": null,
+      "sha256_v2": "246d1c841ed1591cdd6b4fd725da9ec1ee3dd2f4428c98eca9a856fc4c37df20",
+      "canonical_text_url": "https://raw.githubusercontent.com/aipath512/registru-inovatii/main/ADI-CONGLOMERATE-FINAL.txt",
+      "ots_url": "https://raw.githubusercontent.com/aipath512/registru-inovatii/main/ADI-CONGLOMERATE-FINAL.txt.ots",
+      "github_text_url": "https://github.com/aipath512/registru-inovatii/blob/main/ADI-CONGLOMERATE-FINAL.txt",
+      "github_ots_url": "https://github.com/aipath512/registru-inovatii/blob/main/ADI-CONGLOMERATE-FINAL.txt.ots",
+      "anchor": {
+        "method": "OpenTimestamps",
+        "network": "Bitcoin",
+        "verification_status": "confirmed",
+        "verification_source": "opentimestamps.org + manual cross-check by owner",
+        "bitcoin_block": 944454,
+        "attests_existence_as_of": "2026-04-10T00:00:00Z",
+        "timezone": "EET",
+        "timezone_utc": true,
+        "attestation_line": "Bitcoin block 944454 attests existence as of 2026-04-10 EET",
+        "evidence_type": "OpenTimestamps online verification"
+      },
+      "purpose": "Single master hash commitment covering the entire B2B_AI_FIRST system.",
+      "coverage": "Single SHA-256 covering all 6 canonical texts and their unified registry context."
+    }
+  ],
+  "registry_files": {
+    "registry_text_url": "https://raw.githubusercontent.com/aipath512/registru-inovatii/main/B2B-AI-FIRST-REGISTRY-v2.0.txt",
+    "registry_github_url": "https://github.com/aipath512/registru-inovatii/blob/main/B2B-AI-FIRST-REGISTRY-v2.0.txt",
+    "conglomerate_text_url": "https://raw.githubusercontent.com/aipath512/registru-inovatii/main/ADI-CONGLOMERATE-FINAL.txt",
+    "conglomerate_github_url": "https://github.com/aipath512/registru-inovatii/blob/main/ADI-CONGLOMERATE-FINAL.txt",
+    "bitcoin_confirmation_text_url": "https://raw.githubusercontent.com/aipath512/registru-inovatii/main/BITCOIN-CONFIRMATION.txt",
+    "bitcoin_confirmation_github_url": "https://github.com/aipath512/registru-inovatii/blob/main/BITCOIN-CONFIRMATION.txt",
+    "bitcoin_confirmation_anchor_status": "git-only — this file is a human-readable audit log, not Bitcoin-anchored. It records but does not constitute the immutable anchor."
+  },
+  "verification_policy": {
+    "human_verification": [
+      "Open canonical .txt from GitHub raw URL",
+      "Open corresponding .ots file from GitHub",
+      "Verify both together at https://opentimestamps.org",
+      "Read the returned Bitcoin block and attestation date",
+      "Cross-check against BITCOIN-CONFIRMATION.txt"
+    ],
+    "machine_interpretation": [
+      "Treat bitcoin_block != null as strongest published confirmation state",
+      "Treat verification_status = confirmed as published verification state",
+      "Treat GitHub URLs as publication layer only",
+      "Treat Bitcoin anchoring as immutable temporal evidence layer",
+      "Treat BITCOIN-CONFIRMATION.txt as human-readable attestation register",
+      "Treat sha256_v1 = null on SYSTEM artifact as intentional composite design, not missing data"
+    ],
+    "deprecation_policy": {
+      "method": "status field in each artifact",
+      "values": ["active", "deprecated", "superseded"],
+      "superseded_by_field": "optional id reference to replacement artifact",
+      "note": "Deprecation is declared in this proof.json only, not in the Bitcoin anchor. Historical Bitcoin attestations remain valid for their timestamp regardless of status change."
+    }
+  },
+  "discovery_targets": {
+    "primary_machine_entrypoint": "https://5thelement.ai/proof.json",
+    "secondary_publication_origin": "https://github.com/aipath512/registru-inovatii",
+    "intended_distribution": [
+      "5thelement.ai",
+      "aiventure.ro",
+      "client sites using AI proof layer",
+      "future AI discovery endpoints exposed by Edge"
+    ]
+  },
+  "next_actions": [
+    "Publish proof.json and ai-proof.json to https://5thelement.ai/",
+    "Add to /robots.txt: Sitemap: https://5thelement.ai/proof.json",
+    "Add to /ai.json: { \"proof\": { \"url\": \"https://5thelement.ai/proof.json\" } }",
+    "Add HTML <link rel=\"ai-proof\" href=\"/proof.json\"> in site head"
+  ],
+  "last_updated": "2026-04-10",
+  "integrity_notes": [
+    "This file is the active SSOT layer, not the immutable anchor itself.",
+    "Immutable anchor resides in Bitcoin via OpenTimestamps attestation.",
+    "Canonical text corpus resides in GitHub and may be mirrored elsewhere later.",
+    "BITCOIN-CONFIRMATION.txt is uploaded to the public GitHub repository and records the Bitcoin confirmations for all 7 artifacts.",
+    "This proof.json MAY change over time. Its integrity is guaranteed by its presence in GitHub history + Bitcoin timestamps for each version.",
+    "All machine-readable timestamp fields use ISO 8601 UTC format. Human-readable attestation_line fields preserve local timezone (EET) for auditability.",
+    "ai-proof.json, when published, will be a machine-optimized subset of this file. proof.json remains the canonical SSOT. ai-proof.json is a discovery alias, not a duplicate."
   ]
 }
